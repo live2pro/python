@@ -1,0 +1,30 @@
+
+The App Garden
+Create an App API Documentation Feeds What is the App Garden?
+
+Done! Here's the API key and secret for your new app:
+	goodpicture
+Key:
+242cddf5c4650d2b5a3bdd74ff21bd48
+
+Secret:
+3b47b3ad8ae73fd8
+
+Edit app details - Edit auth flow for this app - View all Apps by You
+
+What to do next
+If your key is to use in an application that someone else developed, for example to display your own or your group’s photos on your website or blog, then you’re all done!
+
+If your key is for an app that you’re developing, here are things to help you build and promote your app:
+
+Build your app
+You're all set to build something cool with the API key and secret! Make sure you know what you can and can't do with the images and data on Flickr before you design your app. Save some time by reading these reference guides first:
+
+API Terms of Use
+Community Guidelines
+API Documentation
+Flickr API Group
+Come back to Flickr
+Once your app is working, come back to the App Garden and check out your very own app page. We've set up an app page for each of your approved keys in Apps by You. Application pages are only needed for applications that other people can use to enhance their Flickr experience. If your API key is used just to display your own or your group’s photos on your website or blog, then please do not create an app page. App pages are meant to help viewers discover new utilities to extend and enhance their Flickr experience.
+
+Spruce up and share your app page
